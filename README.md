@@ -16,13 +16,13 @@ or [tweet](https://drive.google.com/file/d/12YDuBm29TPkgB-zOpuBBRBBELdjb0uNb/vie
 
 ## Generate 
 
-movie dataset
+- movie dataset
 
 ```bash
 python huffman_movie_v2.py
 ```
 
-tweet dataset
+- tweet dataset
 
 ```bash
 python huffman_tweet_v2.py
