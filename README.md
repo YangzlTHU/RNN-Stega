@@ -11,7 +11,7 @@ This code belongs to [RNN-Stega: Linguistic Steganography Based on Recurrent Neu
 
 - Download our corpus file [movie](https://drive.google.com/file/d/1LP4ZIZsHDRf2ZgiMIu2EAIex_iC5WGFM/view?usp=sharing) 
 or [tweet](https://drive.google.com/file/d/12YDuBm29TPkgB-zOpuBBRBBELdjb0uNb/view?usp=sharing) and put it in `./data/`
-- Download pretrained models [movie model]() or [tweet model]() and put it in `./models/movie/` or `./models/tweet/`
+- Download pretrained models [movie model](https://drive.google.com/open?id=13F3Xt6zw8JYyzd-HlitXYknIPL_Hn_hA) or [tweet model](https://drive.google.com/open?id=1nDgoy6eE1aOWg9tRdn5Q4aIXhWfUfawU) and put it in `./models/movie/` or `./models/tweet/`
 - Modify `./Config_movie.py` or `./Config_tweet.py` to adjust the hyperparameters
 
 ## Generate 
