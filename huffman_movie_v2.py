@@ -73,7 +73,7 @@ def run_epoch(session, m, data, eval_op, state=None):
 
 
 def main(_):
-
+    os.makedirs('generate/movie', exist_ok=True)
     with tf.Graph().as_default(), tf.Session(config=config_tf) as session:
         config.batch_size = 1
         config.num_steps = 1
