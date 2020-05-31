@@ -4,7 +4,7 @@ This code belongs to [RNN-Stega: Linguistic Steganography Based on Recurrent Neu
 
 ## Requirements
 
-- python 2
+- python 2.7
 - tensorflow = 1.0.0
 
 ## Prepare for Generating
@@ -19,11 +19,13 @@ or [tweet](https://drive.google.com/file/d/12YDuBm29TPkgB-zOpuBBRBBELdjb0uNb/vie
 - movie dataset
 
 ```bash
-python huffman_movie_v2.py
+python huffman_movie_v2.py 1 1
 ```
 
 - tweet dataset
 
 ```bash
-python huffman_tweet_v2.py
+python huffman_tweet_v2.py 1 1
 ```
+
+The args stand for bit and index.
