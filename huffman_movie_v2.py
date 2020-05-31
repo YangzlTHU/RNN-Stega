@@ -1,9 +1,7 @@
 # coding:utf-8
 import tensorflow as tf
 import sys
-import time
 import numpy as np
-import cPickle
 import os
 import random
 import collections
